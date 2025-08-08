@@ -31,5 +31,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: gracebaek99/${{ env.REPO_NAME }}:latest
+          tags: graceb99/${{ env.REPO_NAME }}:latest
 
